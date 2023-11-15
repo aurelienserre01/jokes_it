@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![plot](https://raw.githubusercontent.com/aurelienserre01/jokes_it/main/inkpx-word-art.png)
+![logojokes_it](https://raw.githubusercontent.com/aurelienserre01/jokes_it/main/inkpx-word-art.png)
 
 ![Static Badge](https://img.shields.io/badge/nodejs-16.17.0-%23339933?style=%23339933&logo=javascript)
 

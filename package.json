@@ -1,6 +1,6 @@
 {
   "name": "jokes_it",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Everyday another joke",
   "main": "index.js",
   "scripts": {
