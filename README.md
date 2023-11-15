@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![Alt text](./inkpx-word-art.png)
+![plot](https://raw.githubusercontent.com/aurelienserre01/jokes_it/main/inkpx-word-art.png)
 
 ![Static Badge](https://img.shields.io/badge/nodejs-16.17.0-%23339933?style=%23339933&logo=javascript)
 
@@ -59,7 +59,7 @@ You should add **jokes_it/index.js** in your differents scripts.
 
 ## Example usage
 
-![Alt text](./image-1.png)
+![Alt text](https://github.com/aurelienserre01/jokes_it/blob/main/image-1.png?raw=true)
 
 ## Links
 
