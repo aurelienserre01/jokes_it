@@ -23,35 +23,11 @@ Improve your days with **<span style="color:red">jokes_it !</span>**
 
 if you want implement **<span style="color:red">jokes_it </span>** in your projet you have to change your **package.json**
 
-```json
-{
-  "name": "vite-project",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": " vite",
-    "build": "vue-tsc && vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "jokes_it": "^1.0.0",
-    "vue": "^3.3.4"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5",
-    "vue-tsc": "^1.8.5"
-  }
-}
-```
-
 You should add **jokes_it/index.js** in your differents scripts.
 
 ```json
 "scripts": {
-    "dev": "jokes_it/index.js && vite",
+    "dev": "./nodes_modules/jokes_it/index.js && vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   }
@@ -73,4 +49,4 @@ Update the README.md with details of changes to the interface, this includes new
 
 ## Licence
 
-The project use the license ISC (check LICENSE.md).
+The project use the [ISC License](https://github.com/aurelienserre01/jokes_it/blob/main/LICENSE).
